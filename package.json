@@ -1,0 +1,11 @@
+{
+  "name": "bot-mc-mine",
+  "version": "1.0.0",
+  "description": "A Simple PvP Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "Amine",
+  "license": "ISC"
+}
